@@ -8,6 +8,7 @@ const App = () => {
   }else{
     console.log("I was not double clicked");
   }
+  };
   return (
     <div id="main">
       <button id="dblclick-btn">Double click me</button>
